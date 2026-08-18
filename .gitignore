@@ -27,3 +27,6 @@ python_data_cleaning_blog.md
 
 # 日志
 *.log
+
+#向量数据库
+my_vector_db/
