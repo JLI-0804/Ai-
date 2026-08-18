@@ -1,0 +1,29 @@
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# Python 编译产物
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# 环境变量和密钥
+.env
+.env.local
+
+# IDE 配置
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# 输出文件
+*.md
+!README.md
+python_data_cleaning_blog.md
+
+# 日志
+*.log
